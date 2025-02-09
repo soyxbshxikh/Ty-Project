@@ -89,7 +89,7 @@ const Footer = () => {
           <Link
             rel="noopener noreferrer"
             target="_blank"
-            href="https://twitter.com/Vickytooop"
+            href="https://twitter.com/"
             className="w-10 h-10 rounded-full bg-white/[.25] flex items-center justify-center text-black hover:bg-white/[.5] cursor-pointer"
           >
             <FaTwitter size={20} />
@@ -97,7 +97,7 @@ const Footer = () => {
           <Link
             rel="noopener noreferrer"
             target="_blank"
-            href="https://youtube.com/@frvicky"
+            href="https://youtube.com/"
             className="w-10 h-10 rounded-full bg-white/[.25] flex items-center justify-center text-black hover:bg-white/[.5] cursor-pointer"
           >
             <FaYoutube size={20} />
@@ -105,7 +105,7 @@ const Footer = () => {
           <Link
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.instagram.com/vivekchaprana/"
+            href="https://www.instagram.com/"
             className="w-10 h-10 rounded-full bg-white/[.25] flex items-center justify-center text-black hover:bg-white/[.5] cursor-pointer"
           >
             <FaInstagram size={20} />
