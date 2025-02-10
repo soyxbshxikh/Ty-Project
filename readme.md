@@ -39,7 +39,7 @@ These instructions will help you set up a local development environment and get 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vivek-chaprana/shoe-store.git
+git clone https://github.com/soyxbshxikh/Ty-Project.git
 cd shoe-store-ecommerce
 ```
 2. Install dependencies:
